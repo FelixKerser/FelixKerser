@@ -8,7 +8,7 @@
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/kyrylo-malovanyi/)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felixkerser)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrylomalovanyi/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrylo-malovanyi/)
 
 ```text
 🕑︎ Time Zone: Europe/Warsaw
