@@ -19,3 +19,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_colors: "auto"
+          plugin_isocalendar_size: large
+          plugin_languages: no
+          plugin_activity: no
+          plugin_stars: no
+          plugin_contributors: no
+          plugin_repositories: no
