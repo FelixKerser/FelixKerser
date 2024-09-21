@@ -17,12 +17,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_isocalendar_colors: "auto"
           plugin_isocalendar_size: large
-          plugin_languages: no
-          plugin_activity: no
-          plugin_stars: no
-          plugin_contributors: no
-          plugin_repositories: no
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript
+          plugin_code_load: 400
