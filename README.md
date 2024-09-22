@@ -7,7 +7,7 @@
 - 🌱 I am currently learning more about backend development.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/kyrylo-malovanyi/)
 
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,github,php,py,sass,wordpress&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,github,php,py,sass,wordpress&perline=3)](https://skillicons.dev)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felixkerser)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrylo-malovanyi/)
