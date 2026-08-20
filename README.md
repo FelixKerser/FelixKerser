@@ -1,6 +1,6 @@
 # Hi there, I'm Kyrylo - aka FelixKerser <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://assets-v2.lottiefiles.com/a/639784ea-1171-11ee-aea8-735bf223615c/DhWlAq0TYZ.gif" />
+<img align="right" alt="Laravel" height="240px" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" />
 
 ## I'm a Full-stack Developer
 
