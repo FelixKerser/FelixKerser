@@ -4,8 +4,7 @@
 
 ## I'm a Full-stack Developer
 
-- Laravel Developer
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/kyrylo-malovanyi/)
+📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/kyrylo-malovanyi/)
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,git,css,js,github,php,py,sass,wordpress&perline=3)](https://skillicons.dev)
 
